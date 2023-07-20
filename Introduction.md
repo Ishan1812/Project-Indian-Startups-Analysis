@@ -4,7 +4,7 @@ Welcome to the Indian Startups Data Analysis project! This repository contains a
 
 ## Project Overview
 
-The primary goal of this project is to gain valuable insights into the Indian startup ecosystem using real-world data. We have conducted a thorough analysis to answer key questions about funding trends, regional distribution, startup growth, job creation, and more. My analysis is based on a diverse and extensive dataset sourced from reliable sources, ensuring the accuracy and relevance of the findings.
+The primary goal of this project is to gain valuable insights into the Indian startup ecosystem using real-world data. I have conducted a thorough analysis to answer key questions about funding trends, regional distribution, startup growth, job creation, and more. My analysis is based on a diverse and extensive dataset sourced from reliable sources, ensuring the accuracy and relevance of the findings.
 
 ## Key Questions Explored
 
