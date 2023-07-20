@@ -31,7 +31,7 @@ Feel free to explore the analysis, review the code, and use the data to replicat
 
 ## Acknowledgments
 
-I would like to express our gratitude to ASHISHRAUT64 (Kaggle/ASHISHRAUT64)for providing the valuable data used in this analysis.
+I would like to express our gratitude to ASHISHRAUT64 (Kaggle/ASHISHRAUT64) for providing the valuable data used in this analysis.
 
 ## Contact Information
 
