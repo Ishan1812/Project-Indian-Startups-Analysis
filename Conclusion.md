@@ -31,4 +31,5 @@ Together, we aspire to empower the next generation of startups, nurturing their 
 Thank you for being a part of this journey, and may the spirit of entrepreneurship guide us all to new horizons.
 
 With warm regards,
+
 Ishan Garg
